@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoinToss</string>
+    <string name="or">OR</string>
+    <string name="streak">Winning Streak :</string>
+    <string name="head">Head</string>
+    <string name="tails">Tails</string>
+    <string name="highscore">High Score :</string>
+    <string name="currentscore">Current Score :</string>
+    <string name="ouput"> Press head or tails to initialize coin toss</string>
+
+</resources>

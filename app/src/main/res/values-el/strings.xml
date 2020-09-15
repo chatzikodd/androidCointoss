@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ρίψη νομίσματος</string>
+    <string name="streak">Σερί:</string>
+    <string name="head">Κορώνα</string>
+    <string name="tails">Γράμματα</string>
+    <string name="highscore">Ρεκόρ :</string>
+    <string name="currentscore">Σκορ :</string>
+    <string name="ouput"> Πάτησε κορώνα ή γράμματα για να ρίξεις νόμισμα</string>
+    <string name="or">Ή</string>
+</resources>
